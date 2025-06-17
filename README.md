@@ -67,9 +67,9 @@ Issues and discussions welcome. This is as much about community interpretation a
 
 ## Contact
 
-- Check oit my sries, "This Isn't Real" published on [Substack](rtmax-substack.com)
-- Discussions welcome in GitHub Issues
-- For other inquiries: thebearwithabitegmail.com
+- 📕 Check out my series, "This Isn't Real" published on [Substack](rtmax-substack.com)
+- 🧵 Discussions welcome in GitHub Issues
+- ❔ For other inquiries: thebearwithabitegmail.com
 
 ---
 
