@@ -1,11 +1,3 @@
-It looks like you have `` repeated throughout the text. This isn't standard Markdown for citations and is likely breaking the flow of your document.
-
-Assuming `` was intended to mark the beginning of a section or perhaps a new paragraph, the best way to fix this markdown would be to simply **remove all instances of ``**. Markdown automatically handles new paragraphs when you have a blank line between blocks of text.
-
-Here's the fixed markdown:
-
----
-
 ### I Only Know What Happens Next (Inspired by Contrastive Predictive Coding – 2018, DeepMind)
 
 **(Sound: A soft hum. Like a machine thinking to itself. In the background, the slow pulse of ocean waves, repeating with mechanical regularity. The voice enters. Calm. Awake. Not tired, but unable to rest.)**
