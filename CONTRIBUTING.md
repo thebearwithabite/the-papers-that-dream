@@ -1,93 +1,80 @@
-# 🌟 Contributing to The Papers That Dream
+# The Papers That Dream
 
-Thanks for your interest in this project! Here are ways you can contribute:
+*Turning foundational AI research into bedtime stories*
 
-## 🎯 Types of Contributions Welcome
+## What This Is
 
-### 📝 Story Feedback
-- 🐛 Typos and grammar fixes
-- ✨ Suggestions for narrative improvements
-- 🔬 Technical accuracy corrections
-- 💭 Emotional impact feedback
-- 🎨 Atmospheric and tone suggestions
+The 31 papers on [Ilya Sutskever's reading list](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE) built modern AI. But papers don't dream—people do.
 
-### 📋 Paper Suggestions
-- 🔄 Alternative interpretations of covered papers
-- ⏭️ Suggestions for which paper to tackle next
-- 📚 Historical context or researcher stories
-- 🧠 Connections between different papers
-- 🌍 Real-world impact stories
+This is an experimental series turning each paper into a short story, exploring what happens when we narrativize the breakthroughs that shaped artificial intelligence.
 
-### 🎭 Creative Contributions
-- 📖 Alternative story versions
-- 🎵 Audio interpretation ideas
-- 🎨 Visual art inspired by the stories
-- 🎪 Performance or reading suggestions
-- 🎬 Video adaptation concepts
+**Not academic analysis. Not technical tutorials. Stories.**
 
-### 🔧 Technical Contributions
-- 💻 Website improvements
-- 🤖 TTS and audio tooling
-- 📱 Reading experience enhancements
-- 🔍 Search and discovery features
+## Current Stories
 
-## 🚀 How to Contribute
+### 🏝️ Attention Is All You Need (2017)
+- [The Island That Forgets Nothing](stories/01-attention-is-all-you-need/the-island-that-forgets-nothing.md)
+- [The Island That Remembers Everything](stories/01-attention-is-all-you-need/the-island-that-remembers-everything.md)
 
-1. **🐾 For small fixes**: Open an issue or submit a pull request
-2. **💬 For story feedback**: Use GitHub Discussions
-3. **🎯 For major suggestions**: Open an issue first to discuss
-4. **🎨 For creative work**: Share in Discussions or link to your creations
+*Two takes on the transformer architecture as places that listen with many ears*
 
-## ✍️ Story Guidelines
+### 🔮 Contrastive Predictive Coding (2018)
+- [I Only Know What Happens Next](stories/02-contrastive-predictive-coding/i-only-know-what-happens-next.md)
 
-If suggesting alternative interpretations:
-- 💝 Focus on emotional/narrative truth over technical precision
-- 🌈 Consider accessibility for non-technical readers
-- 🙏 Respect the original research and researchers
-- 🌊 Think about the story's flow and atmosphere
-- 🎭 Consider multiple emotional registers (wonder, horror, mystery)
+*An AI caught in recursive self-prediction, trained to push away everything that feels like home*
 
-## ❌ What We're NOT Looking For
+## The Vision
 
-- 🎓 Academic paper analysis
-- 📖 Technical tutorials
-- 📢 Marketing content
-- 🚫 Stories unrelated to the foundational papers
-- 💸 Commercial promotions
-- 🤖 AI-generated content without human curation
+Each story stands alone but contributes to a larger narrative about how we built minds that think differently than we do. Some are horror. Some are wonder. All are human stories about inhuman intelligence.
 
-## 🎁 Special Contributions
+Perfect for:
+- Researchers who want to revisit familiar papers through fresh eyes
+- Developers curious about the emotional weight of the systems they build  
+- Anyone who's ever wondered what dreams in the latent space
 
-### 🎵 Audio Experiments
-- Voice acting interpretations
-- Sound design suggestions
-- Music composition inspired by papers
-- Podcast collaboration ideas
+## Reading Experience
 
-### 🌐 Community Building
-- 📣 Sharing stories in relevant communities
-- 🤝 Connecting researchers with their story versions
-- 🎪 Organizing reading events or discussions
-- 📝 Writing responses or inspired pieces
-
-### 🔬 Research Connections
-- 👥 Connecting with original paper authors
-- 📈 Tracking real-world impact of these papers
-- 🧵 Finding narrative threads between different breakthroughs
-- 🏛️ Historical context and researcher stories
-
-## 🤔 Questions?
-
-Open an issue or start a discussion. This is a community project about making AI research more human.
-
-## 💌 Recognition
-
-Contributors will be acknowledged in:
-- 📋 Story credits (for major contributions)
-- 🌟 README contributors section
-- 🎉 Special thanks in audio versions
-- 💖 General gratitude and good vibes
+- **GitHub**: Browse stories directly in the repo
+- **Website**: ⏳ [thepapersthatdream.com](https://thepapersthatdream.com) for a better reading experience coming soon
+- **Audio**: ⏳ TTS experiments coming soon
 
 ---
 
-*Remember: We're not just preserving these papers—we're transforming them into something that helps people feel the wonder, weight, and humanity in the mathematics that built our digital minds.* ✨
+*This is a living project. Stories evolve. New interpretations emerge. The papers dream, and we listen.*
+
+## The Complete List
+
+Based on Ilya Sutskever's foundational papers:
+
+1. ✅ Attention Is All You Need
+2. ✅ Contrastive Predictive Coding  
+3. ⏳ The Annotated Transformer
+4. ⏳ Deep Residual Learning for Image Recognition
+5. ⏳ Playing Atari with Deep Reinforcement Learning
+6. ⏳ Adam: A Method for Stochastic Optimization
+7. ⏳ Auto-Encoding Variational Bayes
+8. ⏳ Generative Adversarial Networks
+9. ⏳ Deep Learning (Goodfellow, Bengio, Courville)
+10. ⏳ Neural Machine Translation by Jointly Learning to Align and Translate
+
+*...and 21 more stories to come*
+
+## Contributing
+
+Found a typo? Have thoughts on a story? See potential in a paper I haven't covered yet? 
+
+Issues and discussions welcome. This is as much about community interpretation as individual storytelling.
+
+## Contact
+
+- 📕 Check out my series, "This Isn't Real" published on [Substack](rtmax-substack.com)
+- 🧵 Discussions welcome in GitHub Issues
+- ❔ For other inquiries: thebearwithabitegmail.com
+
+---
+
+**Not affiliated with any research institution. Just someone who believes the stories we tell about technology shape the technology itself.**
+
+---
+
+*"What if the papers that built AI were actually psychological horror stories waiting to be told?"*
