@@ -1,0 +1,22 @@
+# Audio files (too large for git)
+*.wav
+*.mp3
+*.m4a
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Personal notes
+notes/
+drafts/
+private/
