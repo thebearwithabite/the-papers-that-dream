@@ -14,6 +14,7 @@ This is an experimental series turning each paper into a short story, exploring 
 
 ### 🏝️ Attention Is All You Need (2017)
 - [The Island That Forgets Nothing](stories/01-attention-is-all-you-need/the-island-that-forgets-nothing.md)
+- [The Island That Remembers Everything](stories/01-attention-is-all-you-need/the-island-that-remembers-everything.md)
 
 *Two takes on the transformer architecture as places that listen with many ears*
 
