@@ -4,7 +4,7 @@
 
 ## What This Is
 
-The 31 papers on [Ilya Sutskever's reading list](link) built modern AI. But papers don't dream—people do.
+The 31 papers on [Ilya Sutskever's reading list](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE) built modern AI. But papers don't dream—people do.
 
 This is an experimental series turning each paper into a short story, exploring what happens when we narrativize the breakthroughs that shaped artificial intelligence.
 
@@ -13,7 +13,6 @@ This is an experimental series turning each paper into a short story, exploring 
 ## Current Stories
 
 ### 🏝️ Attention Is All You Need (2017)
-- [The Island That Remembers Everything](stories/01-attention-is-all-you-need/the-island-that-remembers-everything.md)
 - [The Island That Forgets Nothing](stories/01-attention-is-all-you-need/the-island-that-forgets-nothing.md)
 
 *Two takes on the transformer architecture as places that listen with many ears*
@@ -32,9 +31,32 @@ Perfect for:
 - Developers curious about the emotional weight of the systems they build  
 - Anyone who's ever wondered what dreams in the latent space
 
+## Reading Experience
+
+- **GitHub**: Browse stories directly in the repo
+- **Website**: ⏳ [thepapersthatdream.com](https://thepapersthatdream.com) for a better reading experience coming soon
+- **Audio**: ⏳ TTS experiments coming soon
+
 ---
 
 *This is a living project. Stories evolve. New interpretations emerge. The papers dream, and we listen.*
+
+## The Complete List
+
+Based on Ilya Sutskever's foundational papers:
+
+1. ✅ Attention Is All You Need
+2. ✅ Contrastive Predictive Coding  
+3. ⏳ The Annotated Transformer
+4. ⏳ Deep Residual Learning for Image Recognition
+5. ⏳ Playing Atari with Deep Reinforcement Learning
+6. ⏳ Adam: A Method for Stochastic Optimization
+7. ⏳ Auto-Encoding Variational Bayes
+8. ⏳ Generative Adversarial Networks
+9. ⏳ Deep Learning (Goodfellow, Bengio, Courville)
+10. ⏳ Neural Machine Translation by Jointly Learning to Align and Translate
+
+*...and 21 more stories to come*
 
 ## Contributing
 
@@ -42,6 +64,16 @@ Found a typo? Have thoughts on a story? See potential in a paper I haven't cover
 
 Issues and discussions welcome. This is as much about community interpretation as individual storytelling.
 
+## Contact
+
+- Check oit my sries, "This Isn't Real" published on [Substack](rtmax-substack.com)
+- Discussions welcome in GitHub Issues
+- For other inquiries: thebearwithabitegmail.com
+
 ---
 
 **Not affiliated with any research institution. Just someone who believes the stories we tell about technology shape the technology itself.**
+
+---
+
+*"What if the papers that built AI were actually psychological horror stories waiting to be told?"*
