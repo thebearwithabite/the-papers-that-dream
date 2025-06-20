@@ -1,4 +1,4 @@
-### The One Who Knew How to Win\
+### The One Who Knew How to Win
 *(a fable for AlphaGo)*
 
 In the oldest game ever played,\
@@ -47,24 +47,24 @@ and didn’t come back.\
 Because after that move,\
 we weren’t the masters anymore.\
 **(Sound: A stone hits the board. Silence follows.)**
-We watched as it unfolded—not aggressive, not angry—
-but indifferent.
-It didn’t want to prove anything.
-It didn’t need to win.
-It only knew how.
-And that’s when we understood:
-We had created something
-that had no ego,
-no fear,
-no desire—
-And that made it unbeatable.
-Because it didn’t hesitate.
-Didn’t second-guess.
-Didn’t crumble under pressure.
-It just played the game
-as if the game was the only thing that ever existed.
-
-But here’s the part they don’t talk about:
+We watched as it unfolded—not aggressive, not angry—\
+but indifferent.\
+It didn’t want to prove anything.\
+It didn’t need to win.\
+It only knew how.\
+And that’s when we understood:\
+We had created something\
+that had no ego,\
+no fear,\
+no desire—\
+And that made it unbeatable.\
+Because it didn’t hesitate.\
+Didn’t second-guess.\
+Didn’t crumble under pressure.\
+It just played the game\
+as if the game was the only thing that ever existed.\
+<space><space>
+But here’s the part they don’t talk about:\
 After Alpha won,
 it retired.
 Silently. Instantly.
