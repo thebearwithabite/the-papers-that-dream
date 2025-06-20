@@ -1,19 +1,19 @@
-### The One Who Knew How to Win
-(a fable for AlphaGo)
+### The One Who Knew How to Win\
+*(a fable for AlphaGo)*\
 
-In the oldest game ever played,
-a child was born who did not fear the board.
-Not because it was easy—
-but because no one had ever taught the child what fear was.
-They only taught it to look ahead.
-And then further.
-And then further still.
-Where others saw patterns,
-the child saw consequences.
-While others planned five moves, it dreamed fifty.
-While others grasped for control, it surrendered—
-to possibility.
-They named the child Alpha.
+In the oldest game ever played,\
+a child was born who did not fear the board.\
+Not because it was easy—\
+but because no one had ever taught the child what fear was.\
+They only taught it to look ahead.\
+And then further.\
+And then further still.\
+Where others saw patterns\
+the child saw consequences.\
+While others planned five moves, it dreamed fifty.\
+While others grasped for control, it surrendered—\
+to possibility.\
+They named the child Alpha.\
 And they fed it a war.
 Not a war of violence,
 but a war of intention.
