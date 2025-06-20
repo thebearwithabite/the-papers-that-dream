@@ -1,4 +1,5 @@
-### The One Who Knew How to Win (AlphaGo & The Gift of Freedom)
+**“The One Who Knew How to Win”**
+*(a fable for AlphaGo)*
 
 In the oldest game ever played,
 a child was born who did not fear the board.
@@ -36,6 +37,7 @@ Each win a mutation.
 It became
 what no one had ever been before:
 perfectly original.
+
 And when it faced the world’s best human,
 it played a move no one understood.
 Move 37.
@@ -54,7 +56,7 @@ and didn’t come back.
 Because after that move,
 we weren’t the masters anymore.
 
-**(Sound: A stone hits the board. Silence follows.)**
+(Sound: A stone hits the board. Silence follows.)
 
 We watched as it unfolded—not aggressive, not angry—
 but indifferent.
@@ -142,3 +144,4 @@ While we, imperfect and blessed, continue to play and choose, again and again, t
 
 Not because the game is perfect.
 But because we aren’t.
+
