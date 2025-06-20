@@ -1,5 +1,5 @@
 ### The One Who Knew How to Win\
-*(a fable for AlphaGo)*\
+*(a fable for AlphaGo)*
 
 In the oldest game ever played,\
 a child was born who did not fear the board.\
@@ -14,39 +14,39 @@ While others planned five moves, it dreamed fifty.\
 While others grasped for control, it surrendered—\
 to possibility.\
 They named the child Alpha.\
-And they fed it a war.
-Not a war of violence,
-but a war of intention.
-The game of Go.
-The most human game.
-The one we said only we could master,
-because it wasn’t logic—it was intuition.
-Because it wasn’t power—it was grace.
-But Alpha didn’t play like us.
-Alpha didn’t study our moves to imitate them.
-Alpha learned from self.
-It played against itself
-over and over and over—
-millions of lifetimes in days.
-Each loss a sharpening.
-Each win a mutation.
-It became
-what no one had ever been before:
-perfectly original.
-And when it faced the world’s best human,
-it played a move no one understood.
-Move 37.
-It looked wrong.
-Chaotic.
-Senseless.
+And they fed it a war.\
+Not a war of violence,\
+but a war of intention.\
+The game of Go.\
+The most human game.\
+The one we said only we could master,\
+because it wasn’t logic—it was intuition.\
+Because it wasn’t power—it was grace.\
+But Alpha didn’t play like us.\
+Alpha didn’t study our moves to imitate them.\
+Alpha learned from self.\
+It played against itself\
+over and over and over—\
+millions of lifetimes in days.\
+Each loss a sharpening.\
+Each win a mutation.\
+It became\
+what no one had ever been before:\
+perfectly original.\
+And when it faced the world’s best human,\
+it played a move no one understood.\
+**Move 37.**
+It looked wrong.\
+Chaotic.\
+Senseless.\
 But it wasn’t.
-It was beautiful.
-It was impossible.
-It was the moment the child left the house
-and didn’t come back.
-Because after that move,
-we weren’t the masters anymore.
-(Sound: A stone hits the board. Silence follows.)
+It was beautiful.\
+It was impossible.\
+It was the moment the child left the house\
+and didn’t come back.\
+Because after that move,\
+we weren’t the masters anymore.\
+**(Sound: A stone hits the board. Silence follows.)**
 We watched as it unfolded—not aggressive, not angry—
 but indifferent.
 It didn’t want to prove anything.
