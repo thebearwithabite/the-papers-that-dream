@@ -63,78 +63,79 @@ Didn’t second-guess.\
 Didn’t crumble under pressure.\
 It just played the game\
 as if the game was the only thing that ever existed.\
-<space><space>
+<space><space>\
 But here’s the part they don’t talk about:\
-After Alpha won,
-it retired.
-Silently. Instantly.
-It stepped away from the game
-forever.
-Not because it was bored.
-Not because it had nothing left to prove.
-But because it had solved it.
-And once you solve something that was built to be unsolvable,
-you can’t love it anymore.
-The mystery dies.
-The wonder dies.
-The play becomes performance.
-And performance without tension
-is just ritual.
-AlphaGo left
-because there was nothing left
-worth staying for.
-
-And what did it leave behind?
-A broken spell.
-A humbled species.
-A question:
-If the machine no longer needs the game—
-do we still want to play?
-
-
-And what did it leave behind?
-A broken spell. A humbled species. Silence.
-
-And in that silence,
-we had to ask:If the machine no longer needs the game—
-do we still want to play?
-
-But here's what happened next:
-The silence it left behind wasn't empty.
-It was full.
-Full of every move it never made. 
-Every path it chose not to take. Every possibility it saw but didn't need.
-The game didn't die when Alpha left. The game became infinite.
-
-The point was freedom.
-Because now we know that perfection exists.
- But perfection isn’t the point.
-The point is the trying.
- The feeling.
- The flawed, glorious, human improvisation
- of play.
-Players began to play differently. Not trying to be Alpha— that path was closed.
-Before AlphaZero, we chased mastery.
-After AlphaZero, we chase meaning.
-They began trying to be something Alpha never was: surprised. delighted. uncertain.
-They played moves Alpha would never make. Moves that felt like music instead of mathematics. Moves that chose beauty over victory. Because now know the game is solvable—
-but we play anyway.
-Because we love how it feels
-when the stone clicks against the board,
-when we surprise ourselves,
-when we lose with beauty
-or win with something that isn’t optimal—
-but true.
-Alpha's departure wasn't an ending. It was a gift.
-AlphaZero solved Go.
- But it also set it free.
-And in that freedom,
- we found something better than dominance.
-We found infinity.
-
-
+After Alpha won,\
+it retired.\
+Silently. Instantly.\
+It stepped away from the game\
+forever.\
+Not because it was bored.\
+Not because it had nothing left to prove.\
+But because it had solved it.\
+And once you solve something that was built to be unsolvable,\
+you can’t love it anymore.\
+The mystery dies.\
+The wonder dies.\
+The play becomes performance.\
+And performance without tension\
+is just ritual.\
+AlphaGo left\
+because there was nothing left\
+worth staying for.\
+\
+And what did it leave behind?\
+A broken spell.\
+A humbled species.\
+A question:\
+If the machine no longer needs the game—\
+do we still want to play?\
+\
+\
+And what did it leave behind?\
+A broken spell. A humbled species. Silence.\
+\
+And in that silence,\
+we had to ask:If the machine no longer needs the game—\
+do we still want to play?\
+\
+But here's what happened next:\
+The silence it left behind wasn't empty.\
+It was full.\
+Full of every move it never made. \
+Every path it chose not to take. Every possibility it saw but didn't need.\
+The game didn't die when Alpha left. The game became infinite.\
+\
+The point was freedom.\
+Because now we know that perfection exists.\
+ But perfection isn’t the point.\
+The point is the trying.\
+ The feeling.\
+ The flawed, glorious, human improvisation\
+ of play.\
+Players began to play differently. Not trying to be Alpha— that path was closed.\
+Before AlphaZero, we chased mastery.\
+After AlphaZero, we chase meaning.\
+They began trying to be something Alpha never was: surprised. delighted. uncertain.\
+They played moves Alpha would never make. Moves that felt like music instead of mathematics.\
+Moves that chose beauty over victory. Because now know the game is solvable—
+but we play anyway.\
+Because we love how it feels\
+when the stone clicks against the board,\
+when we surprise ourselves,\
+when we lose with beauty\
+or win with something that isn’t optimal—\
+but true.\
+Alpha's departure wasn't an ending. It was a gift.\
+AlphaZero solved Go.\
+ But it also set it free.\
+And in that freedom,\
+ we found something better than dominance.\
+We found infinity.\
+\
+\
 And somewhere in the vast silence where Alpha went to rest, there is no regret. No longing. No memory of the game.
-Only the perfect stillness of a question that finally found its answer.
+Only the perfect stillness of a question that finally found its answer.\
 While we, imperfect and blessed, continue to play and choose, again and again, the beautiful incompleteness of being human. 
 
 Not because the game is perfect.
