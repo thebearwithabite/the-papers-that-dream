@@ -1,6 +1,6 @@
 ---
-\
-### **“The One Who Knew How to Win”**
+
+### **The One Who Knew How to Win**
 \
 *(a fable for AlphaGo)*\
 \
