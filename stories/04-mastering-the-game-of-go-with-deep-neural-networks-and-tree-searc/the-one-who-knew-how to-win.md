@@ -36,7 +36,7 @@ The game of Go.
  millions of lifetimes in days.  
  Each loss a sharpening.  
  Each win a mutation.
-
+\
 It became  
  what no one had ever been before:  
  **perfectly original**.
